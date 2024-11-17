@@ -47,6 +47,7 @@
   "sslmate": "homebrew/core",
   "swi-prolog": "homebrew/core",
   "terraform": "homebrew/core",
+  "tsh": "homebrew/core",
   "vault": "homebrew/core",
   "vfuse": "homebrew/core",
   "volatility": "homebrew/core"
